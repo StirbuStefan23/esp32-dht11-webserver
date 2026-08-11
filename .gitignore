@@ -1,6 +1,9 @@
-```text
-.pio/
-.vscode/
+# Arduino IDE build files & binaries
 build/
+bin/
 *.hex
+*.elf
 *.bin
+
+# Fișier de configurare cu date sensibile
+config.h
